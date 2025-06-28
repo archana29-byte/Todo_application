@@ -106,4 +106,4 @@ This project is for educational purposes.
 
 ## Support
 
-For support, email sasidharan.m2004@gmail.com or join our Slack channel.
+For support, email archuarchu556@gmail.com or join our Slack channel.
